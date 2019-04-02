@@ -2,7 +2,7 @@
 # Site
 
 title: Apical Knowledge Base
-url: "http://localhost:3000"
+url: "https://apical-kb.netlify.com"
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -16,9 +16,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Base Template
+  name: Apical Knowledge Base
   links:
-    - https://github.com/CloudCannon/base-jekyll-template
+    - https://github.com/marcinjak9/apical-kb
 
 # -----
 # Build
