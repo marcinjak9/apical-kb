@@ -10,16 +10,10 @@ type: Document
 
 # Lorem ipsum dolor set
 
-&nbsp;
+ 
 
 Hello world
 
-&nbsp;
+ 
 
 ![](/uploads/akshar-dave-613564-unsplash.jpg)
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
