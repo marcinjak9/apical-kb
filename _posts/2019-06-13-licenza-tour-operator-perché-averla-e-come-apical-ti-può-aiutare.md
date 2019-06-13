@@ -11,7 +11,7 @@ Offrire un prodotto turistico con Apical &egrave; pi&ugrave; semplice ma questo 
 
 ## Quando serve la licenza Tour Operator&nbsp;
 
-La licenza Tour Operator &egrave; necessaria ogniqualvolta si venda un prodotto turistico. Per prodotto turistico si intende la somma di due o pi&ugrave; prodotti all'interno di un unico pacchetto (come accomodation, esperienze, escursioni ecc...).&nbsp;
+La licenza Tour Operator &egrave; necessaria ogniqualvolta si venda un prodotto turistico. Per prodotto turistico si intende la somma di due o pi&ugrave; prodotti all'interno di un unico pacchetto (come accomodation, esperienze, escursioni ecc…).&nbsp;
 
 ## Apical pu&ograve; provvedere a fornire la licenza Tour Operator?
 
