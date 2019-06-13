@@ -21,4 +21,4 @@ Al cliente verr&agrave; consegnata dopo l'ordine una fattura intestata dall'azie
 
 Apical ha integrato la sua tecnologia con Fatture In Cloud, il gestionale per la fatturazione elettronica pi&ugrave; grande d'Italia.&nbsp;<br>I due sistemi, Apical e Fatture in Cloud, automatizzano il processo comunicando in tempo reale. Al merchant baster&agrave; selezionare i clienti al quale inviare le proprie fatture dal suo gestionale di Fatture in Cloud in modo ancora pi&ugrave; semplice e veloce.&nbsp;
 
-## &nbsp;
+Per avere maggiori info circa le integrazioni di Fatture In Cloud leggi il nostro tutorial [cliccando qui](https://support.apical.org/amministrazione/fatturazione-elttronica/)
