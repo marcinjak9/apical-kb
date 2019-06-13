@@ -17,6 +17,12 @@ La licenza Tour Operator &egrave; necessaria ogniqualvolta si venda un prodotto 
 
 Apical pu&ograve; provvedere a fornire ai propri clienti la licenza Tour Operator e assicurazioni viaggio.&nbsp;<br>In questo caso i prodotti venduti dovranno essere approvati prima della pubblicazione e tutti i soggetti coinvolti nell'organizzazione (fornitori di attivit&agrave; o strutture) devono sottoscrivere un accordo con Apical.&nbsp;
 
+## Come si gestisce la contabilit&agrave; se Apical &egrave; fornitore della licenza Tour Operator?
+
+Nel caso in cui sia Apical a fornire la licenza di Tour Operator tutta la contabilit&agrave; sar&agrave; gestita da noi. Questo permette di aver controllo degli split payments e permette all'organizzatore di incassare solo il netto del prodotto: una soluzione pensata per chi deve iniziare e opera in regimi fiscali con tetti sul fatturato.&nbsp;
+
+## &nbsp;
+
 Per i dettagli e per conoscere in che modo possiamo darti il massimo del supporto non esitare a scriverci a support@apical.org&nbsp;
 
 ## &nbsp;
